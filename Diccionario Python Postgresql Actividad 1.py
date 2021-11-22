@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 22 14:43:19 2021
-
-"""
 
 #Importamos la libreria sqlite3
 import sqlite3
